@@ -1,2 +1,2 @@
 # lab2
-This is lab 2. 
+This is the second lab for ITM 361.
